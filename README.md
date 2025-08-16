@@ -1,4 +1,4 @@
-## Olá! Meu nome é luís Felipe Pasqualotto e sou um desenvolvedor Font-End em formação. Utilizo da plataforma Alura, como norte nessa minha jornada!
+## Olá! Meu nome é Luís Felipe Pasqualotto e sou um desenvolvedor Font-End em formação. Utilizo da plataforma Alura, como norte nessa minha jornada!
 - 🌱Estudando Engenharia da Computação - Anhanguera ...
 - Cursando HTML,CSS, JavaScript nos Cursos da Alura
 
